@@ -1,7 +1,7 @@
 # 🛒 Zepto Product, Pricing & Inventory Analytics
 
 <p align="center">
-
+  
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -46,7 +46,6 @@ Understanding which products and categories generate higher sales value, receive
 - Revenue optimization
 
 ### Key Business Questions
-
 1. Which product categories have the highest estimated sales value?
 2. Which categories offer the highest average discounts?
 3. Which products contribute the most estimated sales value?
